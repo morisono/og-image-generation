@@ -16,9 +16,9 @@ Learn more: [https://ogp.me/](https://ogp.me/)
 
 This project demonstrates how to generate dynamic Open Graph images in a React application with React Router v7. The solution uses:
 
-- **Satori**: Converts HTML and CSS into SVG
-- **ResVG**: Converts SVG into PNG
-- **fast-average-color-node**: Extracts dominant colors from images
+- **[Satori](https://www.npmjs.com/package/satori)**: Converts HTML and CSS into SVG
+- **[ResVG](https://www.npmjs.com/package/@resvg/resvg-js)**: Converts SVG into PNG
+- **[fast-average-color-node](https://www.npmjs.com/package/fast-average-color-node)**: Extracts dominant colors from images
 
 ## 🛠️ Technologies
 
